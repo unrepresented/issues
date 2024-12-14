@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/issues/static/css/main.1cfde3ef.css",
+    "main.js": "/issues/static/js/main.47982b52.js",
+    "static/js/769.62efe731.chunk.js": "/issues/static/js/769.62efe731.chunk.js",
+    "static/js/336.9821c37a.chunk.js": "/issues/static/js/336.9821c37a.chunk.js",
+    "static/js/261.1692145b.chunk.js": "/issues/static/js/261.1692145b.chunk.js",
+    "static/js/337.a11b0c1c.chunk.js": "/issues/static/js/337.a11b0c1c.chunk.js",
+    "static/js/203.244cd1d4.chunk.js": "/issues/static/js/203.244cd1d4.chunk.js",
+    "static/js/934.0531df94.chunk.js": "/issues/static/js/934.0531df94.chunk.js",
+    "static/js/161.0f4e0a50.chunk.js": "/issues/static/js/161.0f4e0a50.chunk.js",
+    "static/js/716.a02a9895.chunk.js": "/issues/static/js/716.a02a9895.chunk.js",
+    "static/js/27.5a8ec4bc.chunk.js": "/issues/static/js/27.5a8ec4bc.chunk.js",
+    "service-worker.js": "/issues/service-worker.js",
+    "index.html": "/issues/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.1cfde3ef.css",
+    "static/js/main.47982b52.js"
+  ]
+}
